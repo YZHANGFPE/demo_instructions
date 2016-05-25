@@ -39,15 +39,15 @@
 
 Place the lemon/lime tray and the mixing jar overlapping the corresponding obstacle box in the planning scene
 
-<img src="https://github.com/YZHANGFPE/demo_instrutcions/blob/master/figures/mixingBottle.jpg" width="500">
+<img src="https://github.com/YZHANGFPE/demo_instructions/blob/master/figures/mixingBottle.jpg" width="500">
 
 Naked bottle setup1
 
-<img src="https://github.com/YZHANGFPE/demo_instrutcions/blob/master/figures/setup1.jpg" width="500">
+<img src="https://github.com/YZHANGFPE/demo_instructions/blob/master/figures/setup1.jpg" width="500">
 
 Naked bottle setup2
 
-<img src="https://github.com/YZHANGFPE/demo_instrutcions/blob/master/figures/setup2.jpg" width="500">
+<img src="https://github.com/YZHANGFPE/demo_instructions/blob/master/figures/setup2.jpg" width="500">
 
 ## Calibration
 
@@ -55,14 +55,14 @@ Naked bottle setup2
 Follow the "extrinsic calibration" instruction in the repository
 https://github.com/YZHANGFPE/kinect_calibration
 
-<img src="https://github.com/YZHANGFPE/demo_instrutcions/blob/master/figures/tagLocation.jpg" width="500">
+<img src="https://github.com/YZHANGFPE/demo_instructions/blob/master/figures/tagLocation.jpg" width="500">
 
 the calibration file is save in the directory kinect_calibration/config/base_camera_tf.yaml
 
 ### Step 2
 Manually check the overlap of the pointcloud and the robot model; Either move the camera or change the calibration file to correct the differences. 
 
-<img src="https://github.com/YZHANGFPE/demo_instrutcions/blob/master/figures/checkCalibration.jpg" width="500">
+<img src="https://github.com/YZHANGFPE/demo_instructions/blob/master/figures/checkCalibration.jpg" width="500">
 
 On the left machine
 
