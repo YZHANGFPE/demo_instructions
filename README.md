@@ -56,7 +56,7 @@ Follow the "extrinsic calibration" instruction in the repository
 
 https://github.com/YZHANGFPE/kinect_calibration
 
-The calibration file is save in the directory kinect_calibration/config/base_camera_tf.yaml
+The calibration file is saved in the directory kinect_calibration/config/base_camera_tf.yaml
 
 <img src="https://github.com/YZHANGFPE/demo_instructions/blob/master/figures/tagLocation.jpg" width="500">
 
