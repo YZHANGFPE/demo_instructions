@@ -53,11 +53,12 @@ Naked bottle setup2
 
 ### Step 1 
 Follow the "extrinsic calibration" instruction in the repository
+
 https://github.com/YZHANGFPE/kinect_calibration
 
-<img src="https://github.com/YZHANGFPE/demo_instructions/blob/master/figures/tagLocation.jpg" width="500">
+The calibration file is save in the directory kinect_calibration/config/base_camera_tf.yaml
 
-the calibration file is save in the directory kinect_calibration/config/base_camera_tf.yaml
+<img src="https://github.com/YZHANGFPE/demo_instructions/blob/master/figures/tagLocation.jpg" width="500">
 
 ### Step 2
 Manually check the overlap of the pointcloud and the robot model; Either move the camera or change the calibration file to correct the differences. 
@@ -67,6 +68,7 @@ Manually check the overlap of the pointcloud and the robot model; Either move th
 On the left machine
 
 `roslaunch simtrack_nodes camera_kinect.launch`
+
 `roslaunch simtrack_nodes julia_vision.launch`
 
 On the right machine
